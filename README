@@ -1,0 +1,9 @@
+This directory contains the source code for the Plan 9 VMware tools,
+which were written circa 2001 and only ever released in binary form
+due to concerns about the proprietary nature of the VMware interface.
+
+Now that the VMware backdoor is published and documented in other
+open source code, it is long past overdue to publish these sources.
+
+Russ Cox 
+January 2022
